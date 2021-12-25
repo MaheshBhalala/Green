@@ -1,0 +1,15 @@
+body{
+    font-family: 'Noto Serif Georgian', serif;
+}
+
+nav{height: 79px;
+    font-family: 'IBM Plex Sans Hebrew', sans-serif;
+font-size: 15px ;
+
+padding: 16px 0px ;}
+
+footer ul li a{    font-family: "Untitled Serif",Georgia,serif;
+    font-size: 16px;
+    
+    line-height: 170%;}
+
